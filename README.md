@@ -4,6 +4,8 @@ Conexão de página única para acessar a API do sankhya, sem complicação.
 Nessa página específica estou usando a API para logar e para acessar o DBExplorer.
 
 Depois de tentar muito se conectar de forma mais simples, essa foi a forma mais tranquila que eu achei.
+
+Baixe o arquivo _*sankhya_connect*_
 ## Tudo que tiver -SUA/SEU- é para você por os dados do seu sistema
 Lista de itens que precisarão ser trocados:
 ### No login (primeira parte):
