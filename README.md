@@ -29,7 +29,7 @@ Lista de itens que precisarão ser trocados:
 
 ## Possíveis Problemas:
 
-### Usamos o "Curl" para fazer a resquisição, então se você não tiver ele ativado no seu XAMPP vai dar problema, aqui um guia rapido para ativa:
+### Usamos o "Curl" para fazer a requisição, então se você não tiver ele ativado no seu XAMPP vai dar problema, aqui um guia rapido para ativa:
 
 Acesse seu php.ini, normalmente localizado no diretório: C:xamppapachephp
 
