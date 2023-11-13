@@ -31,7 +31,7 @@ Lista de itens que precisarão ser trocados:
 
 ### Usamos o "Curl" para fazer a requisição, então se você não tiver ele ativado no seu XAMPP vai dar problema, aqui um guia rapido para ativa:
 
-Acesse seu php.ini, normalmente localizado no diretório: C:xamppapachephp
+Acesse seu php.ini, normalmente localizado no diretório: C:\\xampp\apache\php
 
 Procure pela linha: ;extension=php_curl.dll
 
